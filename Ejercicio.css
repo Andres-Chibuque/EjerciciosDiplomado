@@ -1,0 +1,30 @@
+.Titulo{
+    color: red;
+}
+
+.TextoPrincipal li{
+    color: blue;
+    font-family: Georgia, Cambria, serif;
+    font-size: 16px;
+    
+}
+   
+.TextoPrincipal span{
+    color:green;
+    font-family: Georgia, Cambria, serif;
+    font-size: 16px;
+}
+
+.TextoSecundario {
+    color:blue;
+     
+}
+
+.TextoSecundario .Negrita{
+    font-size: 32px;    
+    font-weight: bold;
+}
+
+.TituloSecundario{
+    color:rgb(233, 80, 80);
+}

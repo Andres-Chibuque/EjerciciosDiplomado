@@ -1,0 +1,64 @@
+.Input-form{
+    width: 300px;
+    background-color: azure;
+    border-style: 1px solid black;
+    display: block;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.Button-form{
+    border-radius: 10px;
+    border-style: 2px solid black;
+    display: block;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Button-form:hover{ 
+    display: block;
+    background-color: red;
+    color:blue;
+
+}
+
+.img-animal{
+
+    height: 600px;
+    width: auto;
+    border-radius: 300px;
+
+}
+
+
+
+.nombres-container{
+    margin:10px;
+    padding:10px;
+}
+
+
+.button-form-inline
+{
+    display: inline;
+
+}
+
+#boton-rojo{
+    background-color: red;
+}
+#boton-amarillo {
+    background-color: yellow;
+}
+#boton-morado{
+    background-color: blueviolet;
+}
+
+#container-color{
+    display:block;
+    width: 200px;
+    height: 200px;
+    border:solid black;
+
+}
